@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Auto Delete Items
+## Notes: Automatically delete specified items when looted
+## Author: YourName
+## Version: 1.0
+## SavedVariables: AutoDeleteItemsDB, AutoDeleteItemsSettings
+
+AutoDeleteItems.lua
